@@ -1,3 +1,9 @@
+# test web app using Rick&Morty opensource API and react-query
+See and filter Rick&Morty personage and data.
+
+https://rickandmortyapi.com/documentation/
+https://react-query.tanstack.com/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
